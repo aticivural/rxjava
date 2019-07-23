@@ -1,0 +1,5 @@
+*Observable thread: RxNewThreadScheduler-3
+(Operator thread: RxNewThreadScheduler-2
+*Subscriber thread: RxNewThreadScheduler-1
+
+Result: 1

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MultiThreading" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-22T14:28:49" hostname="trseuistmac113.eu.sony.com" time="0.038">
+  <properties/>
+  <testcase name="runsObservableOperatorAndSubscriberOnDifferentThreads" classname="MultiThreading" time="0.038"/>
+  <system-out><![CDATA[Observable thread: RxNewThreadScheduler-3
+Operator thread: RxNewThreadScheduler-2
+Subscriber thread: RxNewThreadScheduler-1
+Result: 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
